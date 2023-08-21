@@ -2,6 +2,9 @@
 
 A quick and simple game against the computer that tracks a running score.
 
+![image](https://github.com/katwhite11/tic-tac-toe/assets/119902118/35132c11-8aa7-4de3-a5e4-b8eff23df711)
+
+
 ## Features
 
 - __Score Keeping__ 
