@@ -30,7 +30,7 @@ java --version
 cd downloads
 ```
 
-5. Run the python program
+5. Run the java program
 ```bash
 java TicTacToe.java
 ```
